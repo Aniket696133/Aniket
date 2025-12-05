@@ -1,3 +1,3 @@
 Hi,I'm Aniket
 Currently learning ...
-skills - Full stack Web development (HTML, CSS, JavaScript) and little knowledge about C and Java
+skills - Full stack Web development (Html,CSS,JavaScript),python developer.
